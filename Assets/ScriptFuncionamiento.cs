@@ -2,11 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ArrayProductos : MonoBehaviour
+public class ScriptFuncionamiento : MonoBehaviour
 {
-    public GameObject[] ArrayProducto;
+    public GameObject[] ArrayProductos;
 
-              
     // Start is called before the first frame update
     void Start()
     {
